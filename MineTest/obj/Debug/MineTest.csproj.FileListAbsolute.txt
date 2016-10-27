@@ -1,0 +1,14 @@
+E:\Mine\MineTest\MineTest\obj\Debug\MineTest.csprojResolveAssemblyReference.cache
+E:\Mine\MineTest\MineTest\bin\MineTest.dll.config
+E:\Mine\MineTest\MineTest\bin\MineTest.dll
+E:\Mine\MineTest\MineTest\bin\MineTest.pdb
+E:\Mine\MineTest\MineTest\bin\ExcelExportHelper.dll
+E:\Mine\MineTest\MineTest\bin\ICSharpCode.SharpZipLib.dll
+E:\Mine\MineTest\MineTest\bin\NPOI.dll
+E:\Mine\MineTest\MineTest\bin\NPOI.OOXML.dll
+E:\Mine\MineTest\MineTest\bin\NPOI.OpenXml4Net.dll
+E:\Mine\MineTest\MineTest\bin\NPOI.OpenXmlFormats.dll
+E:\Mine\MineTest\MineTest\bin\ExcelExportHelper.pdb
+E:\Mine\MineTest\MineTest\bin\NPOI.xml
+E:\Mine\MineTest\MineTest\obj\Debug\MineTest.dll
+E:\Mine\MineTest\MineTest\obj\Debug\MineTest.pdb

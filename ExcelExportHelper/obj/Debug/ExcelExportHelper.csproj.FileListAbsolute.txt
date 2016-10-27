@@ -1,0 +1,11 @@
+E:\Mine\MineTest\ExcelExportHelper\obj\Debug\ExcelExportHelper.csprojResolveAssemblyReference.cache
+E:\Mine\MineTest\ExcelExportHelper\bin\Debug\ExcelExportHelper.dll
+E:\Mine\MineTest\ExcelExportHelper\bin\Debug\ExcelExportHelper.pdb
+E:\Mine\MineTest\ExcelExportHelper\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Mine\MineTest\ExcelExportHelper\bin\Debug\NPOI.dll
+E:\Mine\MineTest\ExcelExportHelper\bin\Debug\NPOI.OOXML.dll
+E:\Mine\MineTest\ExcelExportHelper\bin\Debug\NPOI.OpenXml4Net.dll
+E:\Mine\MineTest\ExcelExportHelper\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\Mine\MineTest\ExcelExportHelper\bin\Debug\NPOI.xml
+E:\Mine\MineTest\ExcelExportHelper\obj\Debug\ExcelExportHelper.dll
+E:\Mine\MineTest\ExcelExportHelper\obj\Debug\ExcelExportHelper.pdb
